@@ -1,2 +1,3 @@
 Test in training
 Adding line1
+Hi, this is a test file for Remote testing.
